@@ -1,0 +1,2 @@
+# goutil
+Golang common util.
